@@ -9,17 +9,17 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: BenzeneKim
+subtitle: "Developing blog"
+email: davidkim020409@gmail.com
+name: JS Kim
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  IoT and HID developer.
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "/centrarium" # the subpath of your site, e.g. /blog/
-url: "http://bencentra.github.io" # the base hostname & protocol for your site
+url: "http://BenzeneKim.github.io" # the base hostname & protocol for your site
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -75,21 +75,21 @@ social:
     username: TheBenCentra
     url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
-    url:
+    username: BenzeneKim
+    url: https://www.facebook.com/profile.php?id=100006982658131
     desc: Friend me on Facebook
     share: true
 
   - name: GitHub
     icon: github
     username: bencentra
-    url: https://github.com/bencentra
+    url: https://github.com/BenezeneKim
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
@@ -107,10 +107,10 @@ social:
 
   - name: YouTube
     icon: youtube
-    username:
-    url:
+    username: BenzeneKim
+    url: https://m.youtube.com/channel/UC6HOs4nRuhpBgd0AXL96gmg
     desc: Subscribe on YouTube
-    share: false
+    share: true
 
   - name: Instagram
     icon: instagram
